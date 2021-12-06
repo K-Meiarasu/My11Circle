@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to right, rgb(24, 75, 133),black);
+    position: relative;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(6, 121, 92));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.right{
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 1500px;
+}
+.left{
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+a{
+    font-weight:bold;
+    color: black;
+    text-decoration: none;
+}
+table{
+    border: 1px solid white;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px #6de2f18a;
+}
+th{
+    background-color: palevioletred;
+    text-align: justify;
+    padding: 15px;
+}
+td{
+    background-color: peachpuff;
+    box-shadow: gray;
+    text-align: justify;
+    padding: 15px;
+}
+span{
+    color: gray;
+}
