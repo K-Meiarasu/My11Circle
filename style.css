@@ -5,7 +5,7 @@ body{
 h1{
     color: white;
     text-align: center;
-    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+    font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
     background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(6, 121, 92));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
